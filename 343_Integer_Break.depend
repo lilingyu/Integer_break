@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1461408072 source:c:\users\conoli\documents\code\leetcode\343_integer_break\main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+
